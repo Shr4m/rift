@@ -1,3 +1,4 @@
 vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&sid=09&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&headerType=none&host=%2FJKVPN_BIA_CHANEL%40JKVPN#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#37%F0%9F%A9%B4%40oneclickvpnkeys
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%8F%9D%EF%B8%8F22%40oneclickvpnkeys
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&sid=e2&type=tcp&headerType=none#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
